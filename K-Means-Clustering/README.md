@@ -28,6 +28,5 @@ PIL
 
 ### Data
 
-The sample images on which we ran our code, and the corresponding output images can be found here.
-
-We collected these images from Google Maps and using drone. The reference images for result evaluation were created using Adobe Photoshop and thresholded using python.
+The sample images on which we ran our code and the corresponding output images can be found here.
+These images are from the DeepGlobe challenge dataset.
